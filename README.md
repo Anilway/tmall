@@ -4,6 +4,6 @@
 
 ## 项目预览
 
-预览：[查看Demo](http://htmlpreview.github.io/?https://github.com/Anilway/tmall/blob/master/index.html)
+预览：[查看Demo](https://anilway.github.io/tmall/)
 
 ![](https://raw.githubusercontent.com/Anilway/tmall/master/readme-data/tmall.PNG)
