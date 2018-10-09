@@ -6,4 +6,4 @@
 
 预览：[查看Demo]()
 
-![](readme-data/tmall.png)
+![](https://raw.githubusercontent.com/Anilway/tmall/master/readme-data/tmall.PNG)
