@@ -1,0 +1,75 @@
+
+
+/*样式初始化*/
+body{font:12px/1.5 tahoma,arial,"\5b8b\4f53";}
+body,h3,p,span,a{margin: 0;padding: 0;}
+a{text-decoration:none;}
+
+/*布局样式*/
+/*body{min-width:1332px;}*/
+div.header{
+	height:88px;
+}
+div.tmall-copyright{
+	height:234px;
+}
+
+
+/*结构样式*/
+/*页头*/
+div.header{
+	position: relative;
+}
+div.header a{
+	display:block;
+	position:absolute;
+	top:30px;
+	left:80px;
+}
+div.header a img{
+	width:190px;
+}
+
+/*内容部分*/
+div.content{
+	background:#eae7e2;
+}
+
+div.content .login-wrap{
+	position:relative;
+}
+
+div.content .inner{
+	width:1190px;
+	position:relative;
+	margin:auto;
+}
+div.content .inner img{
+	display:block;
+	margin:0 auto;
+}
+div.content .inner a{
+	display:block;
+	width:630px;
+	height:440px;
+	position:absolute;
+	left:75px;
+	top:80px;
+}
+
+
+
+
+
+
+
+/*页脚部分*/
+.tmall-copyright a{
+	color:black;
+}
+
+.footer-inner{
+	position:absolute;
+	top:46px;
+	left:80px;
+}
